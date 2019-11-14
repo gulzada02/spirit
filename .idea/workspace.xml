@@ -13,6 +13,7 @@
   </component>
   <component name="ProjectId" id="1Tc9RQldXHmwW4e3UFJFLYDcoU2" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -38,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573748509699</updated>
       <workItem from="1573748515888" duration="63000" />
+      <workItem from="1573748750512" duration="23000" />
     </task>
     <servers />
   </component>
@@ -49,7 +51,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
